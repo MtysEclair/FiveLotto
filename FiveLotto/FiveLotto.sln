@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveLotto", "FiveLotto\FiveLotto.csproj", "{A04EF40B-625E-4649-94E7-B0B3CBF7C1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveLottoDesktop", "FiveLottoDesktop\FiveLottoDesktop.csproj", "{399DC35B-9538-4A98-BE73-FB5508A616C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04EF40B-625E-4649-94E7-B0B3CBF7C1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04EF40B-625E-4649-94E7-B0B3CBF7C1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04EF40B-625E-4649-94E7-B0B3CBF7C1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04EF40B-625E-4649-94E7-B0B3CBF7C1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399DC35B-9538-4A98-BE73-FB5508A616C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399DC35B-9538-4A98-BE73-FB5508A616C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399DC35B-9538-4A98-BE73-FB5508A616C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399DC35B-9538-4A98-BE73-FB5508A616C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D797A9E-661D-4340-848E-34CADB265649}
+	EndGlobalSection
+EndGlobal

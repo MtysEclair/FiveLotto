@@ -1,0 +1,172 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-width: 400px;
+    min-height: 100vh;
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    color: white;
+    background-color: rgba(161, 211, 54, 0.6);
+
+    font-size: 20rem;
+    margin: 2vh 2vw;
+    padding: 0 1rem;
+    line-height: 1.1;
+
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    white-space: nowrap;
+}
+
+
+
+/* Alapbeállítások */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    min-width: 400px;
+    min-height: 100vh;
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Főcím */
+h1 {
+    color: white;
+    background-color: rgba(161, 211, 54, 0.6);
+
+    /* A képernyő szélességéhez igazodó betűméret */
+    font-size: clamp(4rem, 15vw, 20rem);
+    line-height: 1.1;
+
+    margin: 2vh 2vw;
+    padding: 0.2em 0.15em;
+
+    overflow-wrap: anywhere;
+}
+
+/* A lóhereképek kerete */
+.lohere-keret {
+    width: 50vw;
+    max-width: 100%;
+    margin: 4vh auto;
+
+    border: 10px solid #a1d336;
+    border-radius: 3rem;
+    padding: 1rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Lóhereképek */
+.lohere {
+    display: block;
+    width: 45%;
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+.elso {
+    transform: none;
+}
+
+.masodik {
+    transform: rotate(180deg);
+}
+
+/* Mobilnézet */
+@media (max-width: 767px) {
+    h1 {
+        font-size: clamp(3rem, 15vw, 10rem);
+        white-space: nowrap;
+        margin: 2vh 2vw 0;
+        padding: 0.1em;
+    }
+
+    .lohere-keret {
+        width: 100%;
+        margin-top: 5vh;
+
+        border: none;
+        border-radius: 0;
+        padding: 0;
+
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .lohere {
+        width: 80%;
+    }
+
+    .masodik {
+        transform: none;
+    }
+}
+
+
+.elso {
+    float: left;
+}
+
+.masodik {
+    float: right;
+    transform: rotate(180deg);
+}
+
+@media (max-width: 767px) {
+    .lohere {
+        width: 80%;
+        float: none;
+        transform: none;
+    }
+}
+
+    .lohere-keret {
+        width: 100%;
+        margin-top: 5vh;
+
+        border: none;
+        border-radius: 0;
+        padding: 0;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5rem;
+    }
+
+    .lohere {
+        width: 80%;
+        float: none;
+        transform: none;
+    }
+}

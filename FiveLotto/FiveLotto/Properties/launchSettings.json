@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiveLotto": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\2026_school\\II. semester\\Feladatok\\261015_5lotto\\FiveLotto\\Forras_5osLotto\\csv\\gamers.csv\" \"D:\\2026_school\\II. semester\\Feladatok\\261015_5lotto\\FiveLotto\\Forras_5osLotto\\csv\\data5.csv\""
+    }
+  }
+}

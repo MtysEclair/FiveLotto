@@ -1,0 +1,11 @@
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\bin\Debug\FiveLottoDesktop.exe.config
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\bin\Debug\FiveLottoDesktop.exe
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\bin\Debug\FiveLottoDesktop.pdb
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.csproj.AssemblyReference.cache
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.Form1.resources
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.Properties.Resources.resources
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.csproj.GenerateResource.cache
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.csproj.CoreCompileInputs.cache
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.exe
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.pdb
+D:\2026_school\II. semester\Feladatok\261015_5lotto\FiveLotto\FiveLottoDesktop\obj\Debug\FiveLottoDesktop.exe.config
